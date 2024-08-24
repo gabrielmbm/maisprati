@@ -8,7 +8,7 @@
 
 2. **Iniciando exercícios**
 
-   Com o Nodejs e o prompt-sync instalados, basta ir até a pasta dos exercícios e iniciá-los com o comando:
+   Com o Nodejs instalado, basta ir até a pasta dos exercícios e iniciá-los com o comando:
 
    ```sh
    node nomedoarquivo.js
